@@ -5,6 +5,7 @@ order: 4
 #> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 #{: .prompt-tip }
 ---
+![Me](/assets/img/IMG_0460.png)
 
 Hey there! I'm Antonio, a tech enthusiast who loves tinkering with gadgets and systems. Over the years, I've built a solid self-hosted platform to keep everything running smoothly in my home/office.
 
