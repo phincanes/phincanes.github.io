@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: PhinCanes # the main title
 
-tagline: HomeLab Guy / Tech Consulting / Airborne Vet / Nerd # it will display as the sub-title
+tagline: HomeLab Guy / Tech Consulting / Airborne Vet / "Golfer" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Expert Tech Consulting Services. Specializing in Home Automation, Networking, and System Integration. Offering tailored solutions with Ubiquiti, Synology, and Proxmox expertise.
